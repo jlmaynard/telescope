@@ -1,0 +1,30 @@
+# First line is the number of telescopes
+# Name of telescope
+# Aperature (in)
+# Length (mm)
+
+6
+
+Orion SkyQuest 8
+8
+1200
+
+Meade Lightbridge 10
+10
+1270
+
+Meade Lightbridge 12
+12
+1524
+
+Meade Lightbridge 16
+16
+1829
+
+Obsession 15"
+15
+1600
+
+Obsession 25"
+25
+2540

@@ -1,0 +1,126 @@
+TELESCOPE 1 =====================================================
+Name: Orion SkyQuest 8
+Aperature: 203 mm (8 in) 
+Length: 1200 mm
+Focal ratio: 5.9
+Resolution: 0.6 arc seconds
+Magnification range: 34x to 406x
+Shortest useful eyepiece: 3.0 mm
+Longest useful eyepiece: 35 mm
+
+EYEPIECES .......................................................
+NAME                MAG            FOV (deg)      FOV (min)      
+Stratus 3.5         343            0.2            12             
+Stratus 5           240            0.3            17             
+Stratus 8           150            0.5            27             
+Stratus 13          92             0.7            44             
+Stratus 17          71             1.0            58             
+Q70 26              46             1.5            91             
+Q70 32              38             1.9            112            
+
+
+TELESCOPE 2 =====================================================
+Name: Meade Lightbridge 10
+Aperature: 254 mm (10 in) 
+Length: 1270 mm
+Focal ratio: 5.0
+Resolution: 0.5 arc seconds
+Magnification range: 42x to 508x
+Shortest useful eyepiece: 2.5 mm
+Longest useful eyepiece: 30 mm
+
+EYEPIECES .......................................................
+NAME                MAG            FOV (deg)      FOV (min)      
+Stratus 3.5         363            0.2            11             
+Stratus 5           254            0.3            16             
+Stratus 8           159            0.4            26             
+Stratus 13          98             0.7            42             
+Stratus 17          75             0.9            55             
+Q70 26              49             1.4            86             
+Q70 32              40             1.8            106            
+
+
+TELESCOPE 3 =====================================================
+Name: Meade Lightbridge 12
+Aperature: 305 mm (12 in) 
+Length: 1524 mm
+Focal ratio: 5.0
+Resolution: 0.4 arc seconds
+Magnification range: 51x to 610x
+Shortest useful eyepiece: 2.5 mm
+Longest useful eyepiece: 30 mm
+
+EYEPIECES .......................................................
+NAME                MAG            FOV (deg)      FOV (min)      
+Stratus 3.5         435            0.2            9              
+Stratus 5           305            0.2            13             
+Stratus 8           190            0.4            21             
+Stratus 13          117            0.6            35             
+Stratus 17          90             0.8            46             
+Q70 26              59             1.2            72             
+Q70 32              48             1.5            88             
+
+
+TELESCOPE 4 =====================================================
+Name: Meade Lightbridge 16
+Aperature: 406 mm (16 in) 
+Length: 1829 mm
+Focal ratio: 4.5
+Resolution: 0.3 arc seconds
+Magnification range: 68x to 813x
+Shortest useful eyepiece: 2.3 mm
+Longest useful eyepiece: 27 mm
+
+EYEPIECES .......................................................
+NAME                MAG            FOV (deg)      FOV (min)      
+Stratus 3.5         523            0.1            8              
+Stratus 5           366            0.2            11             
+Stratus 8           229            0.3            18             
+Stratus 13          141            0.5            29             
+Stratus 17          108            0.6            38             
+Q70 26              70             1.0            60             
+Q70 32              57             1.2            73             
+
+
+TELESCOPE 5 =====================================================
+Name: Obsession 15"
+Aperature: 381 mm (15 in) 
+Length: 1600 mm
+Focal ratio: 4.2
+Resolution: 0.3 arc seconds
+Magnification range: 64x to 762x
+Shortest useful eyepiece: 2.1 mm
+Longest useful eyepiece: 25 mm
+
+EYEPIECES .......................................................
+NAME                MAG            FOV (deg)      FOV (min)      
+Stratus 3.5         457            0.1            9              
+Stratus 5           320            0.2            13             
+Stratus 8           200            0.3            20             
+Stratus 13          123            0.6            33             
+Stratus 17          94             0.7            43             
+Q70 26              62             1.1            68             
+Q70 32              50             1.4            84             
+
+
+TELESCOPE 6 =====================================================
+Name: Obsession 25"
+Aperature: 635 mm (25 in) 
+Length: 2540 mm
+Focal ratio: 4.0
+Resolution: 0.2 arc seconds
+Magnification range: 106x to 1270x
+Shortest useful eyepiece: 2.0 mm
+Longest useful eyepiece: 24 mm
+
+EYEPIECES .......................................................
+NAME                MAG            FOV (deg)      FOV (min)      
+Stratus 3.5         726            0.1            6              
+Stratus 5           508            0.1            8              
+Stratus 8           318            0.2            13             
+Stratus 13          195            0.3            21             
+Stratus 17          149            0.5            27             
+Q70 26              98             0.7            43             
+Q70 32              79             0.9            53             
+
+
